@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:30.056812Z
+addr = 0xde610
+size = 0x1be
+name = "CNetworkMessages_FindNetworkMessage"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_FindNetworkMessage"
+addr = 0xde610
+type = "long long"
+
+[header.args]

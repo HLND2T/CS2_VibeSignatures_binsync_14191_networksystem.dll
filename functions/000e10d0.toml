@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:09:30.056828Z
+addr = 0xe10d0
+size = 0x2ef
+name = "CNetworkMessages_UnserializeMessageInternal"
+type = "char"
+
+[header]
+name = "CNetworkMessages_UnserializeMessageInternal"
+addr = 0xe10d0
+type = "char"
+
+[header.args]
